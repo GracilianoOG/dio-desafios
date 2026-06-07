@@ -7,3 +7,4 @@ Enviarei desafios mais simples da Digital Innovation One nesse repositório para
 ## Desafios
 
 - [Educador Financeiro (prototipagem com IA)](./educador-financeiro/)
+- [Guia de Estudos com NotebookLM](./dio-guia-estudos/)
