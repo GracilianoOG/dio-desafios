@@ -1,0 +1,1 @@
+Mostre exemplos práticos de interfaces em TypeScript. Crie exemplos simples, foque nos conceitos iniciais. Gere uma resposta curta e simples de entender. Foque no essencial e não aborde nada sobre frameworks.

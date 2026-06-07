@@ -1,0 +1,1 @@
+O que são interfaces e types? Qual a diferença entre eles? Seja conciso e mostre exemplos em código.

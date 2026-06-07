@@ -1,0 +1,1 @@
+Explique o que é TypeScript de forma simples para iniciantes de forma concisa, em um parágrafo.

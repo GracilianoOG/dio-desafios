@@ -1,0 +1,1 @@
+Gostaria de saber qual é a diferença entre o JavaScript e o TypeScript. Como uma linguagem se difere da outra? Compare com o código e diga-me como o TypeScript pode ajudar. Use um linguajar simples e seja conciso quando possível.
